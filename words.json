@@ -1,594 +1,2370 @@
 {
-  "2026-09-17": "SADDLE",
-  "2026-09-18": "SCOUT",
-  "2026-09-19": "GUIDE",
-  "2026-09-20": "NORTH",
-  "2026-09-21": "NOVEL",
-  "2026-09-22": "DANDELION",
-  "2026-09-23": "GATEWAY",
-  "2026-09-24": "TRUST",
-  "2026-09-25": "FRAMEWORK",
-  "2026-09-26": "CROCODILE",
-  "2026-09-27": "CRYSTAL",
-  "2026-09-28": "SPRAY",
-  "2026-09-29": "OLIVE",
-  "2026-09-30": "QUEST",
-  "2026-10-01": "WORLD",
-  "2026-10-02": "CALENDAR",
-  "2026-10-03": "SIGNAL",
-  "2026-10-04": "OBVIOUS",
-  "2026-10-05": "PASSPORT",
-  "2026-10-06": "DESERT",
-  "2026-10-07": "HOUSE",
-  "2026-10-08": "MODEL",
-  "2026-10-09": "DOLPHIN",
-  "2026-10-10": "SMART",
-  "2026-10-11": "MONKEY",
-  "2026-10-12": "SPARKLE",
-  "2026-10-13": "PENGUIN",
-  "2026-10-14": "FIREFLY",
-  "2026-10-15": "CONTROL",
-  "2026-10-16": "AUTUMN",
-  "2026-10-17": "UNICORN",
-  "2026-10-18": "KNOCK",
-  "2026-10-19": "JUICE",
-  "2026-10-20": "COBALT",
-  "2026-10-21": "MAGAZINE",
-  "2026-10-22": "VALUE",
-  "2026-10-23": "THUNDER",
-  "2026-10-24": "PAUSE",
-  "2026-10-25": "CYCLONE",
-  "2026-10-26": "LAVENDER",
-  "2026-10-27": "GRAPEFRUIT",
-  "2026-10-28": "PIZZA",
-  "2026-10-29": "NECTAR",
-  "2026-10-30": "SILVER",
-  "2026-10-31": "RUBBER",
-  "2026-11-01": "AIRPLANE",
-  "2026-11-02": "FROZEN",
-  "2026-11-03": "FEATHER",
-  "2026-11-04": "CLIFF",
-  "2026-11-05": "SHELL",
-  "2026-11-06": "MELON",
-  "2026-11-07": "TOUCH",
-  "2026-11-08": "UNITY",
-  "2026-11-09": "WATERMELON",
-  "2026-11-10": "FURNITURE",
-  "2026-11-11": "VINYL",
-  "2026-11-12": "UNDERMINE",
-  "2026-11-13": "JEALOUSY",
-  "2026-11-14": "RADIO",
-  "2026-11-15": "QUARTER",
-  "2026-11-16": "VOTER",
-  "2026-11-17": "SPINE",
-  "2026-11-18": "JEWEL",
-  "2026-11-19": "DARKNESS",
-  "2026-11-20": "PEACE",
-  "2026-11-21": "SHELF",
-  "2026-11-22": "NEWSPAPER",
-  "2026-11-23": "STARE",
-  "2026-11-24": "VIDEO",
-  "2026-11-25": "KITTEN",
-  "2026-11-26": "SCENE",
-  "2026-11-27": "EXPLORER",
-  "2026-11-28": "PLUNGE",
-  "2026-11-29": "SLOPE",
-  "2026-11-30": "STAIR",
-  "2026-12-01": "SIGHT",
-  "2026-12-02": "NOISE",
-  "2026-12-03": "BALLOON",
-  "2026-12-04": "ROVER",
-  "2026-12-05": "ANCHOR",
-  "2026-12-06": "TOGETHER",
-  "2026-12-07": "PATTERN",
-  "2026-12-08": "MOUNT",
-  "2026-12-09": "KNOWLEDGE",
-  "2026-12-10": "SLICE",
-  "2026-12-11": "COMPUTER",
-  "2026-12-12": "HARMONY",
-  "2026-12-13": "SLATE",
-  "2026-12-14": "TREND",
-  "2026-12-15": "COCKTAIL",
-  "2026-12-16": "YOUTH",
-  "2026-12-17": "BROCCOLI",
-  "2026-12-18": "CASCADE",
-  "2026-12-19": "DINNER",
-  "2026-12-20": "ELEPHANT",
-  "2026-12-21": "PRIZE",
-  "2026-12-22": "PRIME",
-  "2026-12-23": "SOUTH",
-  "2026-12-24": "SURGE",
-  "2026-12-25": "SIREN",
-  "2026-12-26": "HEART",
-  "2026-12-27": "CREATURE",
-  "2026-12-28": "SPLASH",
-  "2026-12-29": "KINGDOM",
-  "2026-12-30": "CIRCUIT",
-  "2026-12-31": "SPOKE",
-  "2027-01-01": "ROGUE",
-  "2027-01-02": "CURTAINS",
-  "2027-01-03": "SAXOPHONE",
-  "2027-01-04": "PRISM",
-  "2027-01-05": "VIPER",
-  "2027-01-06": "MAPLE",
-  "2027-01-07": "SWAMP",
-  "2027-01-08": "MOOSE",
-  "2027-01-09": "VALID",
-  "2027-01-10": "PILGRIM",
-  "2027-01-11": "WORRY",
-  "2027-01-12": "MONEY",
-  "2027-01-13": "SHORE",
-  "2027-01-14": "COPPER",
-  "2027-01-15": "CANDLE",
-  "2027-01-16": "CHOCOLATE",
-  "2027-01-17": "MANOR",
-  "2027-01-18": "NAPKIN",
-  "2027-01-19": "HARBOR",
-  "2027-01-20": "SHARK",
-  "2027-01-21": "SPEED",
-  "2027-01-22": "TRADE",
-  "2027-01-23": "PIANO",
-  "2027-01-24": "BRAVE",
-  "2027-01-25": "UNCLE",
-  "2027-01-26": "CHANNEL",
-  "2027-01-27": "FALCON",
-  "2027-01-28": "ALLIGATOR",
-  "2027-01-29": "CAMOUFLAGE",
-  "2027-01-30": "SOCKET",
-  "2027-01-31": "APPLE",
-  "2027-02-01": "BATTERY",
-  "2027-02-02": "FIREPLACE",
-  "2027-02-03": "UNDER",
-  "2027-02-04": "HAMMER",
-  "2027-02-05": "CASTLE",
-  "2027-02-06": "JIGSAW",
-  "2027-02-07": "NIGHTMARE",
-  "2027-02-08": "LEGEND",
-  "2027-02-09": "TRAIT",
-  "2027-02-10": "SMELL",
-  "2027-02-11": "CONNECT",
-  "2027-02-12": "NETWORK",
-  "2027-02-13": "PUZZLE",
-  "2027-02-14": "TRAMPOLINE",
-  "2027-02-15": "PANIC",
-  "2027-02-16": "EVERYTHING",
-  "2027-02-17": "VALVE",
-  "2027-02-18": "CORAL",
-  "2027-02-19": "TRUCK",
-  "2027-02-20": "FIGURE",
-  "2027-02-21": "PLAYGROUND",
-  "2027-02-22": "KNEEL",
-  "2027-02-23": "SUNRISE",
-  "2027-02-24": "TUNNEL",
-  "2027-02-25": "MARKETING",
-  "2027-02-26": "YOUNG",
-  "2027-02-27": "SPICE",
-  "2027-02-28": "TELEPHONE",
-  "2027-03-01": "GARDEN",
-  "2027-03-02": "PINEAPPLE",
-  "2027-03-03": "WINTER",
-  "2027-03-04": "MIRROR",
-  "2027-03-05": "PLACE",
-  "2027-03-06": "START",
-  "2027-03-07": "CHIMNEY",
-  "2027-03-08": "JUNIPER",
-  "2027-03-09": "CELLAR",
-  "2027-03-10": "SHADE",
-  "2027-03-11": "SWIRL",
-  "2027-03-12": "SHINE",
-  "2027-03-13": "HARVEST",
-  "2027-03-14": "SALMON",
-  "2027-03-15": "DREAM",
-  "2027-03-16": "OPERA",
-  "2027-03-17": "BLUEBIRD",
-  "2027-03-18": "QUESTION",
-  "2027-03-19": "GRAIN",
-  "2027-03-20": "DRAIN",
-  "2027-03-21": "STARFISH",
-  "2027-03-22": "TORCH",
-  "2027-03-23": "LODGE",
-  "2027-03-24": "TRICK",
-  "2027-03-25": "STOVE",
-  "2027-03-26": "FIREWORK",
-  "2027-03-27": "ILLUSION",
-  "2027-03-28": "SHAKE",
-  "2027-03-29": "MARSH",
-  "2027-03-30": "SLEEP",
-  "2027-03-31": "SANDWICH",
-  "2027-04-01": "SCOPE",
-  "2027-04-02": "HUMAN",
-  "2027-04-03": "ORPHAN",
-  "2027-04-04": "UMBRELLA",
-  "2027-04-05": "REALM",
-  "2027-04-06": "EXTRA",
-  "2027-04-07": "WALNUT",
-  "2027-04-08": "CAMPFIRE",
-  "2027-04-09": "DRINK",
-  "2027-04-10": "MOONLIGHT",
-  "2027-04-11": "SOUNDTRACK",
-  "2027-04-12": "FEAST",
-  "2027-04-13": "NEWSLETTER",
-  "2027-04-14": "FORGE",
-  "2027-04-15": "RABBIT",
-  "2027-04-16": "CLUSTER",
-  "2027-04-17": "BASKETBALL",
-  "2027-04-18": "WOUND",
-  "2027-04-19": "PLUMB",
-  "2027-04-20": "CROWN",
-  "2027-04-21": "WATER",
-  "2027-04-22": "WORSE",
-  "2027-04-23": "FORCE",
-  "2027-04-24": "SOLID",
-  "2027-04-25": "MONTH",
-  "2027-04-26": "GREED",
-  "2027-04-27": "THROW",
-  "2027-04-28": "EAGLE",
-  "2027-04-29": "CHASE",
-  "2027-04-30": "PROBLEM",
-  "2027-05-01": "NOBLE",
-  "2027-05-02": "PANTHER",
-  "2027-05-03": "STRUCTURE",
-  "2027-05-04": "GIRAFFE",
-  "2027-05-05": "WILDFIRE",
-  "2027-05-06": "SPEAK",
-  "2027-05-07": "DRIFT",
-  "2027-05-08": "MISSION",
-  "2027-05-09": "SPORT",
-  "2027-05-10": "NOTEBOOK",
-  "2027-05-11": "KETCHUP",
-  "2027-05-12": "POINT",
-  "2027-05-13": "TIGER",
-  "2027-05-14": "LATCH",
-  "2027-05-15": "MATCH",
-  "2027-05-16": "GENERATION",
-  "2027-05-17": "VIGOR",
-  "2027-05-18": "SKULL",
-  "2027-05-19": "TOXIC",
-  "2027-05-20": "DINOSAUR",
-  "2027-05-21": "UPPER",
-  "2027-05-22": "ENGINE",
-  "2027-05-23": "FIELD",
-  "2027-05-24": "PASTE",
-  "2027-05-25": "OYSTER",
-  "2027-05-26": "DRAGON",
-  "2027-05-27": "SCOREBOARD",
-  "2027-05-28": "TRACE",
-  "2027-05-29": "INSECT",
-  "2027-05-30": "PLATE",
-  "2027-05-31": "CREAM",
-  "2027-06-01": "ENVELOPE",
-  "2027-06-02": "ROCKET",
-  "2027-06-03": "SUGAR",
-  "2027-06-04": "OPERATION",
-  "2027-06-05": "LIZARD",
-  "2027-06-06": "POWER",
-  "2027-06-07": "DANCE",
-  "2027-06-08": "LANTERN",
-  "2027-06-09": "BALANCE",
-  "2027-06-10": "RANGER",
-  "2027-06-11": "HUNTER",
-  "2027-06-12": "HERMIT",
-  "2027-06-13": "NAVIGATE",
-  "2027-06-14": "PRETZEL",
-  "2027-06-15": "SNACK",
-  "2027-06-16": "CAPTAIN",
-  "2027-06-17": "HORSE",
-  "2027-06-18": "ADVENTURE",
-  "2027-06-19": "WASTE",
-  "2027-06-20": "ROUTE",
-  "2027-06-21": "UNION",
-  "2027-06-22": "MARCH",
-  "2027-06-23": "HAPPINESS",
-  "2027-06-24": "STORE",
-  "2027-06-25": "QUARANTINE",
-  "2027-06-26": "OCTOPUS",
-  "2027-06-27": "MUSEUM",
-  "2027-06-28": "BUTTERFLY",
-  "2027-06-29": "UNIVERSE",
-  "2027-06-30": "GLOBE",
-  "2027-07-01": "VIVID",
-  "2027-07-02": "TOTAL",
-  "2027-07-03": "QUEEN",
-  "2027-07-04": "METAL",
-  "2027-07-05": "ISLAND",
-  "2027-07-06": "COACH",
-  "2027-07-07": "BACKBONE",
-  "2027-07-08": "DECORATION",
-  "2027-07-09": "FLASHLIGHT",
-  "2027-07-10": "RAILROAD",
-  "2027-07-11": "NOODLE",
-  "2027-07-12": "EXPLOSION",
-  "2027-07-13": "GLOBAL",
-  "2027-07-14": "KNIFE",
-  "2027-07-15": "STEEL",
-  "2027-07-16": "YEARBOOK",
-  "2027-07-17": "SPACE",
-  "2027-07-18": "OCEAN",
-  "2027-07-19": "QUIET",
-  "2027-07-20": "ORDER",
-  "2027-07-21": "SPARK",
-  "2027-07-22": "TRACTOR",
-  "2027-07-23": "IMPULSE",
-  "2027-07-24": "CRANE",
-  "2027-07-25": "TRACK",
-  "2027-07-26": "STAIN",
-  "2027-07-27": "ROYAL",
-  "2027-07-28": "SOUND",
-  "2027-07-29": "SWORD",
-  "2027-07-30": "GRAPE",
-  "2027-07-31": "FROST",
-  "2027-08-01": "RECTANGLE",
-  "2027-08-02": "VIOLET",
-  "2027-08-03": "URBAN",
-  "2027-08-04": "FOREST",
-  "2027-08-05": "TROPHY",
-  "2027-08-06": "NIGHT",
-  "2027-08-07": "WITCH",
-  "2027-08-08": "VAMPIRE",
-  "2027-08-09": "PHASE",
-  "2027-08-10": "TOASTER",
-  "2027-08-11": "UNDERSTAND",
-  "2027-08-12": "MARBLE",
-  "2027-08-13": "QUICKSAND",
-  "2027-08-14": "CIRCLE",
-  "2027-08-15": "STAND",
-  "2027-08-16": "STRAWBERRY",
-  "2027-08-17": "FREEDOM",
-  "2027-08-18": "FLASHBACK",
-  "2027-08-19": "VOICE",
-  "2027-08-20": "PILOT",
-  "2027-08-21": "FLAME",
-  "2027-08-22": "MYSTERY",
-  "2027-08-23": "SHOCK",
-  "2027-08-24": "SHELTER",
-  "2027-08-25": "PARROT",
-  "2027-08-26": "ZOMBIE",
-  "2027-08-27": "SKELETON",
-  "2027-08-28": "PLAIN",
-  "2027-08-29": "IVORY",
-  "2027-08-30": "DRAFT",
-  "2027-08-31": "BATHROOM",
-  "2027-09-01": "WEATHER",
-  "2027-09-02": "GRANITE",
-  "2027-09-03": "CANYON",
-  "2027-09-04": "MAHOGANY",
-  "2027-09-05": "PLANT",
-  "2027-09-06": "PATCH",
-  "2027-09-07": "YACHT",
-  "2027-09-08": "IMPOSSIBLE",
-  "2027-09-09": "ELEMENT",
-  "2027-09-10": "GLITTER",
-  "2027-09-11": "EARTH",
-  "2027-09-12": "TRASH",
-  "2027-09-13": "BRIDGE",
-  "2027-09-14": "CHAPTER",
-  "2027-09-15": "STAKE",
-  "2027-09-16": "GLEAM",
-  "2027-09-17": "SUNSET",
-  "2027-09-18": "SPONGE",
-  "2027-09-19": "EVERGREEN",
-  "2027-09-20": "WATCH",
-  "2027-09-21": "CONTRACT",
-  "2027-09-22": "DANGER",
-  "2027-09-23": "PICKLE",
-  "2027-09-24": "VEGETABLE",
-  "2027-09-25": "RIBBON",
-  "2027-09-26": "TEMPLE",
-  "2027-09-27": "ROUND",
-  "2027-09-28": "STORM",
-  "2027-09-29": "WAGON",
-  "2027-09-30": "ARCTIC",
-  "2027-10-01": "SMOKE",
-  "2027-10-02": "PITCH",
-  "2027-10-03": "WRATH",
-  "2027-10-04": "NURSE",
-  "2027-10-05": "TOAST",
-  "2027-10-06": "EDUCATION",
-  "2027-10-07": "GREEN",
-  "2027-10-08": "TWIST",
-  "2027-10-09": "RADAR",
-  "2027-10-10": "POPCORN",
-  "2027-10-11": "CLIMB",
-  "2027-10-12": "RIVER",
-  "2027-10-13": "DEMON",
-  "2027-10-14": "BOULDER",
-  "2027-10-15": "FOOTNOTE",
-  "2027-10-16": "PEPPER",
-  "2027-10-17": "JOURNAL",
-  "2027-10-18": "WIDTH",
-  "2027-10-19": "GRASP",
-  "2027-10-20": "SHIELD",
-  "2027-10-21": "HANDBOOK",
-  "2027-10-22": "JUNGLE",
-  "2027-10-23": "WHOLE",
-  "2027-10-24": "SMILE",
-  "2027-10-25": "CARDBOARD",
-  "2027-10-26": "STORY",
-  "2027-10-27": "MINOR",
-  "2027-10-28": "BLACKBERRY",
-  "2027-10-29": "LIGHT",
-  "2027-10-30": "CABIN",
-  "2027-10-31": "RAINBOW",
-  "2027-11-01": "KEYBOARD",
-  "2027-11-02": "SWING",
-  "2027-11-03": "COMPASS",
-  "2027-11-04": "JUDGE",
-  "2027-11-05": "HORSEBACK",
-  "2027-11-06": "SOLAR",
-  "2027-11-07": "CLOUD",
-  "2027-11-08": "TREASURE",
-  "2027-11-09": "PRINT",
-  "2027-11-10": "LEADERSHIP",
-  "2027-11-11": "WHEAT",
-  "2027-11-12": "TOWER",
-  "2027-11-13": "MONSTER",
-  "2027-11-14": "BLACKBIRD",
-  "2027-11-15": "PLANET",
-  "2027-11-16": "ZEBRA",
-  "2027-11-17": "TOKEN",
-  "2027-11-18": "HAVEN",
-  "2027-11-19": "EARTHQUAKE",
-  "2027-11-20": "DATABASE",
-  "2027-11-21": "SKYSCRAPER",
-  "2027-11-22": "UPGRADE",
-  "2027-11-23": "MAGIC",
-  "2027-11-24": "FLASH",
-  "2027-11-25": "LIBERTY",
-  "2027-11-26": "PIXEL",
-  "2027-11-27": "BOOKWORM",
-  "2027-11-28": "STYLE",
-  "2027-11-29": "OTTER",
-  "2027-11-30": "FLOOD",
-  "2027-12-01": "FLOAT",
-  "2027-12-02": "WARRIOR",
-  "2027-12-03": "FANTASY",
-  "2027-12-04": "WATERFALL",
-  "2027-12-05": "COFFEE",
-  "2027-12-06": "EXERCISE",
-  "2027-12-07": "PLANE",
-  "2027-12-08": "BRONZE",
-  "2027-12-09": "POISON",
-  "2027-12-10": "POWDER",
-  "2027-12-11": "ULTRA",
-  "2027-12-12": "ECLIPSE",
-  "2027-12-13": "STAGE",
-  "2027-12-14": "LOGIC",
-  "2027-12-15": "ROCKY",
-  "2027-12-16": "TABLE",
-  "2027-12-17": "FORTUNE",
-  "2027-12-18": "WHEEL",
-  "2027-12-19": "SHAPE",
-  "2027-12-20": "GOSSIP",
-  "2027-12-21": "VELVET",
-  "2027-12-22": "IMPACT",
-  "2027-12-23": "PUNCH",
-  "2027-12-24": "PALACE",
-  "2027-12-25": "NERVE",
-  "2027-12-26": "VOLLEYBALL",
-  "2027-12-27": "FLANNEL",
-  "2027-12-28": "BLANKET",
-  "2027-12-29": "HOLLOW",
-  "2027-12-30": "TIMBER",
-  "2027-12-31": "BIRTHPLACE",
-  "2028-01-01": "VAPOR",
-  "2028-01-02": "BREEZE",
-  "2028-01-03": "VACATION",
-  "2028-01-04": "PULSE",
-  "2028-01-05": "SAILOR",
-  "2028-01-06": "EMBER",
-  "2028-01-07": "JOURNALISM",
-  "2028-01-08": "BUTTON",
-  "2028-01-09": "GRIND",
-  "2028-01-10": "FRUIT",
-  "2028-01-11": "GOLDFISH",
-  "2028-01-12": "PRIDE",
-  "2028-01-13": "ABSOLUTE",
-  "2028-01-14": "RANGE",
-  "2028-01-15": "OBSTACLE",
-  "2028-01-16": "DIAMOND",
-  "2028-01-17": "BLUEPRINT",
-  "2028-01-18": "BANANA",
-  "2028-01-19": "QUARTZ",
-  "2028-01-20": "SCORE",
-  "2028-01-21": "CHIEF",
-  "2028-01-22": "CRASH",
-  "2028-01-23": "YESTERDAY",
-  "2028-01-24": "SOLVE",
-  "2028-01-25": "YIELD",
-  "2028-01-26": "NATURAL",
-  "2028-01-27": "LUNAR",
-  "2028-01-28": "ROBOT",
-  "2028-01-29": "NOTHING",
-  "2028-01-30": "REVOLUTION",
-  "2028-01-31": "SPOON",
-  "2028-02-01": "MANSION",
-  "2028-02-02": "JACKET",
-  "2028-02-03": "LUNCH",
-  "2028-02-04": "TRAIL",
-  "2028-02-05": "KNOCKOUT",
-  "2028-02-06": "CURTAIN",
-  "2028-02-07": "TRAIN",
-  "2028-02-08": "BEAUTIFUL",
-  "2028-02-09": "HELICOPTER",
-  "2028-02-10": "WORTH",
-  "2028-02-11": "CLIMATE",
-  "2028-02-12": "RIDGE",
-  "2028-02-13": "STOMACH",
-  "2028-02-14": "COCONUT",
-  "2028-02-15": "LIGHTNING",
-  "2028-02-16": "GUARD",
-  "2028-02-17": "LANDSCAPE",
-  "2028-02-18": "VOLCANO",
-  "2028-02-19": "WONDER",
-  "2028-02-20": "PAINT",
-  "2028-02-21": "SWEET",
-  "2028-02-22": "SNAKE",
-  "2028-02-23": "LEMON",
-  "2028-02-24": "SNOWBALL",
-  "2028-02-25": "PRICE",
-  "2028-02-26": "GRACE",
-  "2028-02-27": "BLOSSOM",
-  "2028-02-28": "SHARP",
-  "2028-02-29": "MEDAL",
-  "2028-03-01": "PHONE",
-  "2028-03-02": "MIDNIGHT",
-  "2028-03-03": "CRADLE",
-  "2028-03-04": "CHARM",
-  "2028-03-05": "IMAGINARY",
-  "2028-03-06": "PROUD",
-  "2028-03-07": "DOCUMENT",
-  "2028-03-08": "ROOSTER",
-  "2028-03-09": "STONE",
-  "2028-03-10": "ORBIT",
-  "2028-03-11": "WOMAN",
-  "2028-03-12": "FABLE",
-  "2028-03-13": "WRITE",
-  "2028-03-14": "JOKER",
-  "2028-03-15": "PANEL",
-  "2028-03-16": "FRESH",
-  "2028-03-17": "PARADISE",
-  "2028-03-18": "PEARL",
-  "2028-03-19": "EMPIRE",
-  "2028-03-20": "JELLYFISH",
-  "2028-03-21": "GOLDEN",
-  "2028-03-22": "SWIFT",
-  "2028-03-23": "TULIP",
-  "2028-03-24": "SURPRISE",
-  "2028-03-25": "CABINET",
-  "2028-03-26": "GIANT",
-  "2028-03-27": "STATE",
-  "2028-03-28": "CROSSBOW",
-  "2028-03-29": "HORIZON",
-  "2028-03-30": "STEAM",
-  "2028-03-31": "THORN",
-  "2028-04-01": "VAULT",
-  "2028-04-02": "PIRATE",
-  "2028-04-03": "SHIFT",
-  "2028-04-04": "GRATITUDE",
-  "2028-04-05": "PLATFORM",
-  "2028-04-06": "BEACH",
-  "2028-04-07": "PYRAMIDS",
-  "2028-04-08": "DRIVE",
-  "2028-04-09": "BUBBLE",
-  "2028-04-10": "PRESS",
-  "2028-04-11": "SCALE",
-  "2028-04-12": "GHOST",
-  "2028-04-13": "WINDOW",
-  "2028-04-14": "DRAMA",
-  "2028-04-15": "COURAGE",
-  "2028-04-16": "HOMEWORK",
-  "2028-04-17": "SWEEP",
-  "2028-04-18": "STRAW",
-  "2028-04-19": "DESPERATE",
-  "2028-04-20": "SPACESHIP",
-  "2028-04-21": "LEADER",
-  "2028-04-22": "WHIRLPOOL",
-  "2028-04-23": "WANDER",
-  "2028-04-24": "ROBIN",
-  "2028-04-25": "CANDY",
-  "2028-04-26": "TREAT",
-  "2028-04-27": "CHANCELLOR",
-  "2028-04-28": "VOCAL",
-  "2028-04-29": "FLOWER",
-  "2028-04-30": "PROOF"
+  "2026-09-17": {
+    "word": "SADDLE",
+    "hint": "bridle"
+  },
+  "2026-09-18": {
+    "word": "SCOUT",
+    "hint": "scouting"
+  },
+  "2026-09-19": {
+    "word": "GUIDE",
+    "hint": "galaxy"
+  },
+  "2026-09-20": {
+    "word": "NORTH",
+    "hint": "carolina"
+  },
+  "2026-09-21": {
+    "word": "NOVEL",
+    "hint": "trilogy"
+  },
+  "2026-09-22": {
+    "word": "DANDELION",
+    "hint": "sunflower"
+  },
+  "2026-09-23": {
+    "word": "GATEWAY",
+    "hint": "entrance"
+  },
+  "2026-09-24": {
+    "word": "TRUST",
+    "hint": "trustee"
+  },
+  "2026-09-25": {
+    "word": "FRAMEWORK",
+    "hint": "administrative"
+  },
+  "2026-09-26": {
+    "word": "CROCODILE",
+    "hint": "nile"
+  },
+  "2026-09-27": {
+    "word": "CRYSTAL",
+    "hint": "lattice"
+  },
+  "2026-09-28": {
+    "word": "SPRAY",
+    "hint": "nozzle"
+  },
+  "2026-09-29": {
+    "word": "OLIVE",
+    "hint": "drab"
+  },
+  "2026-09-30": {
+    "word": "QUEST",
+    "hint": "grail"
+  },
+  "2026-10-01": {
+    "word": "WORLD",
+    "hint": "war"
+  },
+  "2026-10-02": {
+    "word": "CALENDAR",
+    "hint": "julian"
+  },
+  "2026-10-03": {
+    "word": "SIGNAL",
+    "hint": "transduction"
+  },
+  "2026-10-04": {
+    "word": "OBVIOUS",
+    "hint": "similarities"
+  },
+  "2026-10-05": {
+    "word": "PASSPORT",
+    "hint": "visa"
+  },
+  "2026-10-06": {
+    "word": "DESERT",
+    "hint": "deserts"
+  },
+  "2026-10-07": {
+    "word": "HOUSE",
+    "hint": "commons"
+  },
+  "2026-10-08": {
+    "word": "MODEL",
+    "hint": "playboy"
+  },
+  "2026-10-09": {
+    "word": "DOLPHIN",
+    "hint": "whale"
+  },
+  "2026-10-10": {
+    "word": "SMART",
+    "hint": "grid"
+  },
+  "2026-10-11": {
+    "word": "MONKEY",
+    "hint": "wrench"
+  },
+  "2026-10-12": {
+    "word": "SPARKLE",
+    "hint": "satin"
+  },
+  "2026-10-13": {
+    "word": "PENGUIN",
+    "hint": "paperback"
+  },
+  "2026-10-14": {
+    "word": "FIREFLY",
+    "hint": "serenity"
+  },
+  "2026-10-15": {
+    "word": "CONTROL",
+    "hint": "prevention"
+  },
+  "2026-10-16": {
+    "word": "AUTUMN",
+    "hint": "annals"
+  },
+  "2026-10-17": {
+    "word": "UNICORN",
+    "hint": "tapestry"
+  },
+  "2026-10-18": {
+    "word": "KNOCK",
+    "hint": "unconscious"
+  },
+  "2026-10-19": {
+    "word": "JUICE",
+    "hint": "vinegar"
+  },
+  "2026-10-20": {
+    "word": "COBALT",
+    "hint": "nickel"
+  },
+  "2026-10-21": {
+    "word": "MAGAZINE",
+    "hint": "vogue"
+  },
+  "2026-10-22": {
+    "word": "VALUE",
+    "hint": "multiplied"
+  },
+  "2026-10-23": {
+    "word": "THUNDER",
+    "hint": "lightning"
+  },
+  "2026-10-24": {
+    "word": "PAUSE",
+    "hint": "comma"
+  },
+  "2026-10-25": {
+    "word": "CYCLONE",
+    "hint": "dissipated"
+  },
+  "2026-10-26": {
+    "word": "LAVENDER",
+    "hint": "petals"
+  },
+  "2026-10-27": {
+    "word": "GRAPEFRUIT",
+    "hint": "juice"
+  },
+  "2026-10-28": {
+    "word": "PIZZA",
+    "hint": "hut"
+  },
+  "2026-10-29": {
+    "word": "NECTAR",
+    "hint": "pollen"
+  },
+  "2026-10-30": {
+    "word": "SILVER",
+    "hint": "medal"
+  },
+  "2026-10-31": {
+    "word": "RUBBER",
+    "hint": "latex"
+  },
+  "2026-11-01": {
+    "word": "AIRPLANE",
+    "hint": "slick"
+  },
+  "2026-11-02": {
+    "word": "FROZEN",
+    "hint": "yogurt"
+  },
+  "2026-11-03": {
+    "word": "FEATHER",
+    "hint": "feathers"
+  },
+  "2026-11-04": {
+    "word": "CLIFF",
+    "hint": "overlooking"
+  },
+  "2026-11-05": {
+    "word": "SHELL",
+    "hint": "suture"
+  },
+  "2026-11-06": {
+    "word": "MELON",
+    "hint": "mango"
+  },
+  "2026-11-07": {
+    "word": "TOUCH",
+    "hint": "smell"
+  },
+  "2026-11-08": {
+    "word": "UNITY",
+    "hint": "sed"
+  },
+  "2026-11-09": {
+    "word": "WATERMELON",
+    "hint": "pineapple"
+  },
+  "2026-11-10": {
+    "word": "FURNITURE",
+    "hint": "furnishings"
+  },
+  "2026-11-11": {
+    "word": "VINYL",
+    "hint": "cassette"
+  },
+  "2026-11-12": {
+    "word": "UNDERMINE",
+    "hint": "credibility"
+  },
+  "2026-11-13": {
+    "word": "JEALOUSY",
+    "hint": "envy"
+  },
+  "2026-11-14": {
+    "word": "RADIO",
+    "hint": "broadcasting"
+  },
+  "2026-11-15": {
+    "word": "QUARTER",
+    "hint": "nailed"
+  },
+  "2026-11-16": {
+    "word": "VOTER",
+    "hint": "turnout"
+  },
+  "2026-11-17": {
+    "word": "SPINE",
+    "hint": "lumbar"
+  },
+  "2026-11-18": {
+    "word": "JEWEL",
+    "hint": "thief"
+  },
+  "2026-11-19": {
+    "word": "DARKNESS",
+    "hint": "totality"
+  },
+  "2026-11-20": {
+    "word": "PEACE",
+    "hint": "treaty"
+  },
+  "2026-11-21": {
+    "word": "SHELF",
+    "hint": "shelves"
+  },
+  "2026-11-22": {
+    "word": "NEWSPAPER",
+    "hint": "readership"
+  },
+  "2026-11-23": {
+    "word": "STARE",
+    "hint": "wie"
+  },
+  "2026-11-24": {
+    "word": "VIDEO",
+    "hint": "clip"
+  },
+  "2026-11-25": {
+    "word": "KITTEN",
+    "hint": "puppy"
+  },
+  "2026-11-26": {
+    "word": "SCENE",
+    "hint": "filmed"
+  },
+  "2026-11-27": {
+    "word": "EXPLORER",
+    "hint": "browser"
+  },
+  "2026-11-28": {
+    "word": "PLUNGE",
+    "hint": "headlong"
+  },
+  "2026-11-29": {
+    "word": "SLOPE",
+    "hint": "steeper"
+  },
+  "2026-11-30": {
+    "word": "STAIR",
+    "hint": "turret"
+  },
+  "2026-12-01": {
+    "word": "SIGHT",
+    "hint": "adjustable"
+  },
+  "2026-12-02": {
+    "word": "NOISE",
+    "hint": "abatement"
+  },
+  "2026-12-03": {
+    "word": "BALLOON",
+    "hint": "angioplasty"
+  },
+  "2026-12-04": {
+    "word": "ROVER",
+    "hint": "jaguar"
+  },
+  "2026-12-05": {
+    "word": "ANCHOR",
+    "hint": "anchors"
+  },
+  "2026-12-06": {
+    "word": "TOGETHER",
+    "hint": "husband"
+  },
+  "2026-12-07": {
+    "word": "PATTERN",
+    "hint": "camouflage"
+  },
+  "2026-12-08": {
+    "word": "MOUNT",
+    "hint": "sinai"
+  },
+  "2026-12-09": {
+    "word": "KNOWLEDGE",
+    "hint": "wisdom"
+  },
+  "2026-12-10": {
+    "word": "SLICE",
+    "hint": "pizza"
+  },
+  "2026-12-11": {
+    "word": "COMPUTER",
+    "hint": "programmer"
+  },
+  "2026-12-12": {
+    "word": "HARMONY",
+    "hint": "counterpoint"
+  },
+  "2026-12-13": {
+    "word": "SLATE",
+    "hint": "roofs"
+  },
+  "2026-12-14": {
+    "word": "TREND",
+    "hint": "micro"
+  },
+  "2026-12-15": {
+    "word": "COCKTAIL",
+    "hint": "napkin"
+  },
+  "2026-12-16": {
+    "word": "YOUTH",
+    "hint": "hostel"
+  },
+  "2026-12-17": {
+    "word": "BROCCOLI",
+    "hint": "cabbage"
+  },
+  "2026-12-18": {
+    "word": "CASCADE",
+    "hint": "waterfall"
+  },
+  "2026-12-19": {
+    "word": "DINNER",
+    "hint": "dessert"
+  },
+  "2026-12-20": {
+    "word": "ELEPHANT",
+    "hint": "elephants"
+  },
+  "2026-12-21": {
+    "word": "PRIZE",
+    "hint": "physiology"
+  },
+  "2026-12-22": {
+    "word": "PRIME",
+    "hint": "mover"
+  },
+  "2026-12-23": {
+    "word": "SOUTH",
+    "hint": "dakota"
+  },
+  "2026-12-24": {
+    "word": "SURGE",
+    "hint": "ovulation"
+  },
+  "2026-12-25": {
+    "word": "SIREN",
+    "hint": "sirens"
+  },
+  "2026-12-26": {
+    "word": "HEART",
+    "hint": "ventricular"
+  },
+  "2026-12-27": {
+    "word": "CREATURE",
+    "hint": "comforts"
+  },
+  "2026-12-28": {
+    "word": "SPLASH",
+    "hint": "lubrication"
+  },
+  "2026-12-29": {
+    "word": "KINGDOM",
+    "hint": "prussia"
+  },
+  "2026-12-30": {
+    "word": "CIRCUIT",
+    "hint": "breaker"
+  },
+  "2026-12-31": {
+    "word": "SPOKE",
+    "hint": "fluent"
+  },
+  "2027-01-01": {
+    "word": "ROGUE",
+    "hint": "mystique"
+  },
+  "2027-01-02": {
+    "word": "CURTAINS",
+    "hint": "blinds"
+  },
+  "2027-01-03": {
+    "word": "SAXOPHONE",
+    "hint": "trumpet"
+  },
+  "2027-01-04": {
+    "word": "PRISM",
+    "hint": "abbe"
+  },
+  "2027-01-05": {
+    "word": "VIPER",
+    "hint": "puff"
+  },
+  "2027-01-06": {
+    "word": "MAPLE",
+    "hint": "syrup"
+  },
+  "2027-01-07": {
+    "word": "SWAMP",
+    "hint": "wetland"
+  },
+  "2027-01-08": {
+    "word": "MOOSE",
+    "hint": "jaw"
+  },
+  "2027-01-09": {
+    "word": "VALID",
+    "hint": "align"
+  },
+  "2027-01-10": {
+    "word": "PILGRIM",
+    "hint": "holiness"
+  },
+  "2027-01-11": {
+    "word": "WORRY",
+    "hint": "anxiety"
+  },
+  "2027-01-12": {
+    "word": "MONEY",
+    "hint": "charities"
+  },
+  "2027-01-13": {
+    "word": "SHORE",
+    "hint": "batteries"
+  },
+  "2027-01-14": {
+    "word": "COPPER",
+    "hint": "molybdenum"
+  },
+  "2027-01-15": {
+    "word": "CANDLE",
+    "hint": "candles"
+  },
+  "2027-01-16": {
+    "word": "CHOCOLATE",
+    "hint": "cocoa"
+  },
+  "2027-01-17": {
+    "word": "MANOR",
+    "hint": "farmhouse"
+  },
+  "2027-01-18": {
+    "word": "NAPKIN",
+    "hint": "psoriasis"
+  },
+  "2027-01-19": {
+    "word": "HARBOR",
+    "hint": "tug"
+  },
+  "2027-01-20": {
+    "word": "SHARK",
+    "hint": "fins"
+  },
+  "2027-01-21": {
+    "word": "SPEED",
+    "hint": "knots"
+  },
+  "2027-01-22": {
+    "word": "TRADE",
+    "hint": "wto"
+  },
+  "2027-01-23": {
+    "word": "PIANO",
+    "hint": "concerto"
+  },
+  "2027-01-24": {
+    "word": "BRAVE",
+    "hint": "lupus"
+  },
+  "2027-01-25": {
+    "word": "UNCLE",
+    "hint": "aunt"
+  },
+  "2027-01-26": {
+    "word": "CHANNEL",
+    "hint": "analog"
+  },
+  "2027-01-27": {
+    "word": "FALCON",
+    "hint": "crest"
+  },
+  "2027-01-28": {
+    "word": "ALLIGATOR",
+    "hint": "snapping"
+  },
+  "2027-01-29": {
+    "word": "CAMOUFLAGE",
+    "hint": "concealment"
+  },
+  "2027-01-30": {
+    "word": "SOCKET",
+    "hint": "wrench"
+  },
+  "2027-01-31": {
+    "word": "APPLE",
+    "hint": "poison"
+  },
+  "2027-02-01": {
+    "word": "BATTERY",
+    "hint": "batteries"
+  },
+  "2027-02-02": {
+    "word": "FIREPLACE",
+    "hint": "grate"
+  },
+  "2027-02-03": {
+    "word": "UNDER",
+    "hint": "auspices"
+  },
+  "2027-02-04": {
+    "word": "HAMMER",
+    "hint": "sickle"
+  },
+  "2027-02-05": {
+    "word": "CASTLE",
+    "hint": "moat"
+  },
+  "2027-02-06": {
+    "word": "JIGSAW",
+    "hint": "puzzle"
+  },
+  "2027-02-07": {
+    "word": "NIGHTMARE",
+    "hint": "elm"
+  },
+  "2027-02-08": {
+    "word": "LEGEND",
+    "hint": "sleepy"
+  },
+  "2027-02-09": {
+    "word": "TRAIT",
+    "hint": "recessive"
+  },
+  "2027-02-10": {
+    "word": "SMELL",
+    "hint": "olfactory"
+  },
+  "2027-02-11": {
+    "word": "CONNECT",
+    "hint": "connector"
+  },
+  "2027-02-12": {
+    "word": "NETWORK",
+    "hint": "affiliates"
+  },
+  "2027-02-13": {
+    "word": "PUZZLE",
+    "hint": "solving"
+  },
+  "2027-02-14": {
+    "word": "TRAMPOLINE",
+    "hint": "tumbling"
+  },
+  "2027-02-15": {
+    "word": "PANIC",
+    "hint": "phobia"
+  },
+  "2027-02-16": {
+    "word": "EVERYTHING",
+    "hint": "else"
+  },
+  "2027-02-17": {
+    "word": "VALVE",
+    "hint": "mitral"
+  },
+  "2027-02-18": {
+    "word": "CORAL",
+    "hint": "polyps"
+  },
+  "2027-02-19": {
+    "word": "TRUCK",
+    "hint": "pickup"
+  },
+  "2027-02-20": {
+    "word": "FIGURE",
+    "hint": "skating"
+  },
+  "2027-02-21": {
+    "word": "PLAYGROUND",
+    "hint": "picnic"
+  },
+  "2027-02-22": {
+    "word": "KNEEL",
+    "hint": "knelt"
+  },
+  "2027-02-23": {
+    "word": "SUNRISE",
+    "hint": "sunset"
+  },
+  "2027-02-24": {
+    "word": "TUNNEL",
+    "hint": "boring"
+  },
+  "2027-02-25": {
+    "word": "MARKETING",
+    "hint": "advertising"
+  },
+  "2027-02-26": {
+    "word": "YOUNG",
+    "hint": "restless"
+  },
+  "2027-02-27": {
+    "word": "SPICE",
+    "hint": "spices"
+  },
+  "2027-02-28": {
+    "word": "TELEPHONE",
+    "hint": "fax"
+  },
+  "2027-03-01": {
+    "word": "GARDEN",
+    "hint": "botanical"
+  },
+  "2027-03-02": {
+    "word": "PINEAPPLE",
+    "hint": "mango"
+  },
+  "2027-03-03": {
+    "word": "WINTER",
+    "hint": "placid"
+  },
+  "2027-03-04": {
+    "word": "MIRROR",
+    "hint": "mirrors"
+  },
+  "2027-03-05": {
+    "word": "PLACE",
+    "hint": "worship"
+  },
+  "2027-03-06": {
+    "word": "START",
+    "hint": "finish"
+  },
+  "2027-03-07": {
+    "word": "CHIMNEY",
+    "hint": "flue"
+  },
+  "2027-03-08": {
+    "word": "JUNIPER",
+    "hint": "berries"
+  },
+  "2027-03-09": {
+    "word": "CELLAR",
+    "hint": "wines"
+  },
+  "2027-03-10": {
+    "word": "SHADE",
+    "hint": "intolerant"
+  },
+  "2027-03-11": {
+    "word": "SWIRL",
+    "hint": "clouds"
+  },
+  "2027-03-12": {
+    "word": "SHINE",
+    "hint": "brightly"
+  },
+  "2027-03-13": {
+    "word": "HARVEST",
+    "hint": "harvesting"
+  },
+  "2027-03-14": {
+    "word": "SALMON",
+    "hint": "trout"
+  },
+  "2027-03-15": {
+    "word": "DREAM",
+    "hint": "dreamer"
+  },
+  "2027-03-16": {
+    "word": "OPERA",
+    "hint": "ballet"
+  },
+  "2027-03-17": {
+    "word": "BLUEBIRD",
+    "hint": "maxima"
+  },
+  "2027-03-18": {
+    "word": "QUESTION",
+    "hint": "answer"
+  },
+  "2027-03-19": {
+    "word": "GRAIN",
+    "hint": "elevator"
+  },
+  "2027-03-20": {
+    "word": "DRAIN",
+    "hint": "cleaners"
+  },
+  "2027-03-21": {
+    "word": "STARFISH",
+    "hint": "crabs"
+  },
+  "2027-03-22": {
+    "word": "TORCH",
+    "hint": "relay"
+  },
+  "2027-03-23": {
+    "word": "LODGE",
+    "hint": "masonic"
+  },
+  "2027-03-24": {
+    "word": "TRICK",
+    "hint": "tricks"
+  },
+  "2027-03-25": {
+    "word": "STOVE",
+    "hint": "burner"
+  },
+  "2027-03-26": {
+    "word": "FIREWORK",
+    "hint": "fireworks"
+  },
+  "2027-03-27": {
+    "word": "ILLUSION",
+    "hint": "illusions"
+  },
+  "2027-03-28": {
+    "word": "SHAKE",
+    "hint": "rattle"
+  },
+  "2027-03-29": {
+    "word": "MARSH",
+    "hint": "wetland"
+  },
+  "2027-03-30": {
+    "word": "SLEEP",
+    "hint": "apnea"
+  },
+  "2027-03-31": {
+    "word": "SANDWICH",
+    "hint": "sandwiches"
+  },
+  "2027-04-01": {
+    "word": "SCOPE",
+    "hint": "row"
+  },
+  "2027-04-02": {
+    "word": "HUMAN",
+    "hint": "habitation"
+  },
+  "2027-04-03": {
+    "word": "ORPHAN",
+    "hint": "asylum"
+  },
+  "2027-04-04": {
+    "word": "UMBRELLA",
+    "hint": "organisation"
+  },
+  "2027-04-05": {
+    "word": "REALM",
+    "hint": "realms"
+  },
+  "2027-04-06": {
+    "word": "EXTRA",
+    "hint": "curricular"
+  },
+  "2027-04-07": {
+    "word": "WALNUT",
+    "hint": "twig"
+  },
+  "2027-04-08": {
+    "word": "CAMPFIRE",
+    "hint": "pdf"
+  },
+  "2027-04-09": {
+    "word": "DRINK",
+    "hint": "beverage"
+  },
+  "2027-04-10": {
+    "word": "MOONLIGHT",
+    "hint": "sonata"
+  },
+  "2027-04-11": {
+    "word": "SOUNDTRACK",
+    "hint": "composed"
+  },
+  "2027-04-12": {
+    "word": "FEAST",
+    "hint": "solemnity"
+  },
+  "2027-04-13": {
+    "word": "NEWSLETTER",
+    "hint": "mailed"
+  },
+  "2027-04-14": {
+    "word": "FORGE",
+    "hint": "furnace"
+  },
+  "2027-04-15": {
+    "word": "RABBIT",
+    "hint": "rabbits"
+  },
+  "2027-04-16": {
+    "word": "CLUSTER",
+    "hint": "globular"
+  },
+  "2027-04-17": {
+    "word": "BASKETBALL",
+    "hint": "aba"
+  },
+  "2027-04-18": {
+    "word": "WOUND",
+    "hint": "healing"
+  },
+  "2027-04-19": {
+    "word": "PLUMB",
+    "hint": "lumps"
+  },
+  "2027-04-20": {
+    "word": "CROWN",
+    "hint": "thorns"
+  },
+  "2027-04-21": {
+    "word": "WATER",
+    "hint": "polo"
+  },
+  "2027-04-22": {
+    "word": "WORSE",
+    "hint": "prognosis"
+  },
+  "2027-04-23": {
+    "word": "FORCE",
+    "hint": "raf"
+  },
+  "2027-04-24": {
+    "word": "SOLID",
+    "hint": "electrolyte"
+  },
+  "2027-04-25": {
+    "word": "MONTH",
+    "hint": "precipitation"
+  },
+  "2027-04-26": {
+    "word": "GREED",
+    "hint": "selfishness"
+  },
+  "2027-04-27": {
+    "word": "THROW",
+    "hint": "towel"
+  },
+  "2027-04-28": {
+    "word": "EAGLE",
+    "hint": "scout"
+  },
+  "2027-04-29": {
+    "word": "CHASE",
+    "hint": "ensues"
+  },
+  "2027-04-30": {
+    "word": "PROBLEM",
+    "hint": "solved"
+  },
+  "2027-05-01": {
+    "word": "NOBLE",
+    "hint": "truths"
+  },
+  "2027-05-02": {
+    "word": "PANTHER",
+    "hint": "pink"
+  },
+  "2027-05-03": {
+    "word": "STRUCTURE",
+    "hint": "gable"
+  },
+  "2027-05-04": {
+    "word": "GIRAFFE",
+    "hint": "antelope"
+  },
+  "2027-05-05": {
+    "word": "WILDFIRE",
+    "hint": "suppression"
+  },
+  "2027-05-06": {
+    "word": "SPEAK",
+    "hint": "dialect"
+  },
+  "2027-05-07": {
+    "word": "DRIFT",
+    "hint": "drifting"
+  },
+  "2027-05-08": {
+    "word": "MISSION",
+    "hint": "missionaries"
+  },
+  "2027-05-09": {
+    "word": "SPORT",
+    "hint": "rowing"
+  },
+  "2027-05-10": {
+    "word": "NOTEBOOK",
+    "hint": "laptop"
+  },
+  "2027-05-11": {
+    "word": "KETCHUP",
+    "hint": "relish"
+  },
+  "2027-05-12": {
+    "word": "POINT",
+    "hint": "view"
+  },
+  "2027-05-13": {
+    "word": "TIGER",
+    "hint": "moths"
+  },
+  "2027-05-14": {
+    "word": "LATCH",
+    "hint": "nipple"
+  },
+  "2027-05-15": {
+    "word": "MATCH",
+    "hint": "pinned"
+  },
+  "2027-05-16": {
+    "word": "GENERATION",
+    "hint": "larvae"
+  },
+  "2027-05-17": {
+    "word": "VIGOR",
+    "hint": "vitality"
+  },
+  "2027-05-18": {
+    "word": "SKULL",
+    "hint": "foramen"
+  },
+  "2027-05-19": {
+    "word": "TOXIC",
+    "hint": "fumes"
+  },
+  "2027-05-20": {
+    "word": "DINOSAUR",
+    "hint": "cretaceous"
+  },
+  "2027-05-21": {
+    "word": "UPPER",
+    "hint": "jaw"
+  },
+  "2027-05-22": {
+    "word": "ENGINE",
+    "hint": "horsepower"
+  },
+  "2027-05-23": {
+    "word": "FIELD",
+    "hint": "marshal"
+  },
+  "2027-05-24": {
+    "word": "PASTE",
+    "hint": "solder"
+  },
+  "2027-05-25": {
+    "word": "OYSTER",
+    "hint": "oysters"
+  },
+  "2027-05-26": {
+    "word": "DRAGON",
+    "hint": "quest"
+  },
+  "2027-05-27": {
+    "word": "SCOREBOARD",
+    "hint": "locker"
+  },
+  "2027-05-28": {
+    "word": "TRACE",
+    "hint": "lineage"
+  },
+  "2027-05-29": {
+    "word": "INSECT",
+    "hint": "pests"
+  },
+  "2027-05-30": {
+    "word": "PLATE",
+    "hint": "tectonic"
+  },
+  "2027-05-31": {
+    "word": "CREAM",
+    "hint": "parlor"
+  },
+  "2027-06-01": {
+    "word": "ENVELOPE",
+    "hint": "hue"
+  },
+  "2027-06-02": {
+    "word": "ROCKET",
+    "hint": "propelled"
+  },
+  "2027-06-03": {
+    "word": "SUGAR",
+    "hint": "beet"
+  },
+  "2027-06-04": {
+    "word": "OPERATION",
+    "hint": "enduring"
+  },
+  "2027-06-05": {
+    "word": "LIZARD",
+    "hint": "cretaceous"
+  },
+  "2027-06-06": {
+    "word": "POWER",
+    "hint": "hydroelectric"
+  },
+  "2027-06-07": {
+    "word": "DANCE",
+    "hint": "dances"
+  },
+  "2027-06-08": {
+    "word": "LANTERN",
+    "hint": "hal"
+  },
+  "2027-06-09": {
+    "word": "BALANCE",
+    "hint": "sheet"
+  },
+  "2027-06-10": {
+    "word": "RANGER",
+    "hint": "tab"
+  },
+  "2027-06-11": {
+    "word": "HUNTER",
+    "hint": "bounty"
+  },
+  "2027-06-12": {
+    "word": "HERMIT",
+    "hint": "crabs"
+  },
+  "2027-06-13": {
+    "word": "NAVIGATE",
+    "hint": "menus"
+  },
+  "2027-06-14": {
+    "word": "PRETZEL",
+    "hint": "knot"
+  },
+  "2027-06-15": {
+    "word": "SNACK",
+    "hint": "nutrient"
+  },
+  "2027-06-16": {
+    "word": "CAPTAIN",
+    "hint": "marvel"
+  },
+  "2027-06-17": {
+    "word": "HORSE",
+    "hint": "bred"
+  },
+  "2027-06-18": {
+    "word": "ADVENTURE",
+    "hint": "module"
+  },
+  "2027-06-19": {
+    "word": "WASTE",
+    "hint": "disposal"
+  },
+  "2027-06-20": {
+    "word": "ROUTE",
+    "hint": "terminus"
+  },
+  "2027-06-21": {
+    "word": "UNION",
+    "hint": "rugby"
+  },
+  "2027-06-22": {
+    "word": "MARCH",
+    "hint": "politician"
+  },
+  "2027-06-23": {
+    "word": "HAPPINESS",
+    "hint": "sadness"
+  },
+  "2027-06-24": {
+    "word": "STORE",
+    "hint": "grocery"
+  },
+  "2027-06-25": {
+    "word": "QUARANTINE",
+    "hint": "contagious"
+  },
+  "2027-06-26": {
+    "word": "OCTOPUS",
+    "hint": "squid"
+  },
+  "2027-06-27": {
+    "word": "MUSEUM",
+    "hint": "exhibits"
+  },
+  "2027-06-28": {
+    "word": "BUTTERFLY",
+    "hint": "cameroon"
+  },
+  "2027-06-29": {
+    "word": "UNIVERSE",
+    "hint": "pageant"
+  },
+  "2027-06-30": {
+    "word": "GLOBE",
+    "hint": "mail"
+  },
+  "2027-07-01": {
+    "word": "VIVID",
+    "hint": "hallucinations"
+  },
+  "2027-07-02": {
+    "word": "TOTAL",
+    "hint": "align"
+  },
+  "2027-07-03": {
+    "word": "QUEEN",
+    "hint": "consort"
+  },
+  "2027-07-04": {
+    "word": "METAL",
+    "hint": "alloys"
+  },
+  "2027-07-05": {
+    "word": "ISLAND",
+    "hint": "archipelago"
+  },
+  "2027-07-06": {
+    "word": "COACH",
+    "hint": "compiling"
+  },
+  "2027-07-07": {
+    "word": "BACKBONE",
+    "hint": "conformation"
+  },
+  "2027-07-08": {
+    "word": "DECORATION",
+    "hint": "waving"
+  },
+  "2027-07-09": {
+    "word": "FLASHLIGHT",
+    "hint": "illuminate"
+  },
+  "2027-07-10": {
+    "word": "RAILROAD",
+    "hint": "depot"
+  },
+  "2027-07-11": {
+    "word": "NOODLE",
+    "hint": "soup"
+  },
+  "2027-07-12": {
+    "word": "EXPLOSION",
+    "hint": "ignited"
+  },
+  "2027-07-13": {
+    "word": "GLOBAL",
+    "hint": "warming"
+  },
+  "2027-07-14": {
+    "word": "KNIFE",
+    "hint": "knives"
+  },
+  "2027-07-15": {
+    "word": "STEEL",
+    "hint": "stainless"
+  },
+  "2027-07-16": {
+    "word": "YEARBOOK",
+    "hint": "pacemaker"
+  },
+  "2027-07-17": {
+    "word": "SPACE",
+    "hint": "shuttle"
+  },
+  "2027-07-18": {
+    "word": "OCEAN",
+    "hint": "meridian"
+  },
+  "2027-07-19": {
+    "word": "QUIET",
+    "hint": "riot"
+  },
+  "2027-07-20": {
+    "word": "ORDER",
+    "hint": "precedence"
+  },
+  "2027-07-21": {
+    "word": "SPARK",
+    "hint": "plug"
+  },
+  "2027-07-22": {
+    "word": "TRACTOR",
+    "hint": "doped"
+  },
+  "2027-07-23": {
+    "word": "IMPULSE",
+    "hint": "laplace"
+  },
+  "2027-07-24": {
+    "word": "CRANE",
+    "hint": "lifting"
+  },
+  "2027-07-25": {
+    "word": "TRACK",
+    "hint": "listing"
+  },
+  "2027-07-26": {
+    "word": "STAIN",
+    "hint": "stains"
+  },
+  "2027-07-27": {
+    "word": "ROYAL",
+    "hint": "highness"
+  },
+  "2027-07-28": {
+    "word": "SOUND",
+    "hint": "mixing"
+  },
+  "2027-07-29": {
+    "word": "SWORD",
+    "hint": "sorcery"
+  },
+  "2027-07-30": {
+    "word": "GRAPE",
+    "hint": "vines"
+  },
+  "2027-07-31": {
+    "word": "FROST",
+    "hint": "heaving"
+  },
+  "2027-08-01": {
+    "word": "RECTANGLE",
+    "hint": "bounding"
+  },
+  "2027-08-02": {
+    "word": "VIOLET",
+    "hint": "baudelaire"
+  },
+  "2027-08-03": {
+    "word": "URBAN",
+    "hint": "renewal"
+  },
+  "2027-08-04": {
+    "word": "FOREST",
+    "hint": "deciduous"
+  },
+  "2027-08-05": {
+    "word": "TROPHY",
+    "hint": "icc"
+  },
+  "2027-08-06": {
+    "word": "NIGHT",
+    "hint": "preceding"
+  },
+  "2027-08-07": {
+    "word": "WITCH",
+    "hint": "wardrobe"
+  },
+  "2027-08-08": {
+    "word": "VAMPIRE",
+    "hint": "diaries"
+  },
+  "2027-08-09": {
+    "word": "PHASE",
+    "hint": "phases"
+  },
+  "2027-08-10": {
+    "word": "TOASTER",
+    "hint": "toast"
+  },
+  "2027-08-11": {
+    "word": "UNDERSTAND",
+    "hint": "appreciate"
+  },
+  "2027-08-12": {
+    "word": "MARBLE",
+    "hint": "marbles"
+  },
+  "2027-08-13": {
+    "word": "QUICKSAND",
+    "hint": "vega"
+  },
+  "2027-08-14": {
+    "word": "CIRCLE",
+    "hint": "tangent"
+  },
+  "2027-08-15": {
+    "word": "STAND",
+    "hint": "stud"
+  },
+  "2027-08-16": {
+    "word": "STRAWBERRY",
+    "hint": "vanilla"
+  },
+  "2027-08-17": {
+    "word": "FREEDOM",
+    "hint": "conscience"
+  },
+  "2027-08-18": {
+    "word": "FLASHBACK",
+    "hint": "sequence"
+  },
+  "2027-08-19": {
+    "word": "VOICE",
+    "hint": "voices"
+  },
+  "2027-08-20": {
+    "word": "PILOT",
+    "hint": "navigator"
+  },
+  "2027-08-21": {
+    "word": "FLAME",
+    "hint": "burner"
+  },
+  "2027-08-22": {
+    "word": "MYSTERY",
+    "hint": "suspense"
+  },
+  "2027-08-23": {
+    "word": "SHOCK",
+    "hint": "absorber"
+  },
+  "2027-08-24": {
+    "word": "SHELTER",
+    "hint": "homeless"
+  },
+  "2027-08-25": {
+    "word": "PARROT",
+    "hint": "beak"
+  },
+  "2027-08-26": {
+    "word": "ZOMBIE",
+    "hint": "apocalypse"
+  },
+  "2027-08-27": {
+    "word": "SKELETON",
+    "hint": "vertebrae"
+  },
+  "2027-08-28": {
+    "word": "PLAIN",
+    "hint": "jars"
+  },
+  "2027-08-29": {
+    "word": "IVORY",
+    "hint": "liberia"
+  },
+  "2027-08-30": {
+    "word": "DRAFT",
+    "hint": "pick"
+  },
+  "2027-08-31": {
+    "word": "BATHROOM",
+    "hint": "shower"
+  },
+  "2027-09-01": {
+    "word": "WEATHER",
+    "hint": "forecasting"
+  },
+  "2027-09-02": {
+    "word": "GRANITE",
+    "hint": "feldspar"
+  },
+  "2027-09-03": {
+    "word": "CANYON",
+    "hint": "gorge"
+  },
+  "2027-09-04": {
+    "word": "MAHOGANY",
+    "hint": "walnut"
+  },
+  "2027-09-05": {
+    "word": "PLANT",
+    "hint": "pathogen"
+  },
+  "2027-09-06": {
+    "word": "PATCH",
+    "hint": "patches"
+  },
+  "2027-09-07": {
+    "word": "YACHT",
+    "hint": "cruising"
+  },
+  "2027-09-08": {
+    "word": "IMPOSSIBLE",
+    "hint": "predict"
+  },
+  "2027-09-09": {
+    "word": "ELEMENT",
+    "hint": "isotopes"
+  },
+  "2027-09-10": {
+    "word": "GLITTER",
+    "hint": "fated"
+  },
+  "2027-09-11": {
+    "word": "EARTH",
+    "hint": "orbit"
+  },
+  "2027-09-12": {
+    "word": "TRASH",
+    "hint": "cans"
+  },
+  "2027-09-13": {
+    "word": "BRIDGE",
+    "hint": "truss"
+  },
+  "2027-09-14": {
+    "word": "CHAPTER",
+    "hint": "bankruptcy"
+  },
+  "2027-09-15": {
+    "word": "STAKE",
+    "hint": "shareholder"
+  },
+  "2027-09-16": {
+    "word": "GLEAM",
+    "hint": "glitter"
+  },
+  "2027-09-17": {
+    "word": "SUNSET",
+    "hint": "sunrise"
+  },
+  "2027-09-18": {
+    "word": "SPONGE",
+    "hint": "cake"
+  },
+  "2027-09-19": {
+    "word": "EVERGREEN",
+    "hint": "deciduous"
+  },
+  "2027-09-20": {
+    "word": "WATCH",
+    "hint": "watches"
+  },
+  "2027-09-21": {
+    "word": "CONTRACT",
+    "hint": "expired"
+  },
+  "2027-09-22": {
+    "word": "DANGER",
+    "hint": "extinction"
+  },
+  "2027-09-23": {
+    "word": "PICKLE",
+    "hint": "relish"
+  },
+  "2027-09-24": {
+    "word": "VEGETABLE",
+    "hint": "oils"
+  },
+  "2027-09-25": {
+    "word": "RIBBON",
+    "hint": "clasp"
+  },
+  "2027-09-26": {
+    "word": "TEMPLE",
+    "hint": "siva"
+  },
+  "2027-09-27": {
+    "word": "ROUND",
+    "hint": "draft"
+  },
+  "2027-09-28": {
+    "word": "STORM",
+    "hint": "dissipated"
+  },
+  "2027-09-29": {
+    "word": "WAGON",
+    "hint": "sedan"
+  },
+  "2027-09-30": {
+    "word": "ARCTIC",
+    "hint": "char"
+  },
+  "2027-10-01": {
+    "word": "SMOKE",
+    "hint": "inhalation"
+  },
+  "2027-10-02": {
+    "word": "PITCH",
+    "hint": "pitches"
+  },
+  "2027-10-03": {
+    "word": "WRATH",
+    "hint": "envy"
+  },
+  "2027-10-04": {
+    "word": "NURSE",
+    "hint": "midwife"
+  },
+  "2027-10-05": {
+    "word": "TOAST",
+    "hint": "sandwiches"
+  },
+  "2027-10-06": {
+    "word": "EDUCATION",
+    "hint": "tertiary"
+  },
+  "2027-10-07": {
+    "word": "GREEN",
+    "hint": "lantern"
+  },
+  "2027-10-08": {
+    "word": "TWIST",
+    "hint": "shout"
+  },
+  "2027-10-09": {
+    "word": "RADAR",
+    "hint": "picket"
+  },
+  "2027-10-10": {
+    "word": "POPCORN",
+    "hint": "kernels"
+  },
+  "2027-10-11": {
+    "word": "CLIMB",
+    "hint": "gradient"
+  },
+  "2027-10-12": {
+    "word": "RIVER",
+    "hint": "tributary"
+  },
+  "2027-10-13": {
+    "word": "DEMON",
+    "hint": "demons"
+  },
+  "2027-10-14": {
+    "word": "BOULDER",
+    "hint": "colorado"
+  },
+  "2027-10-15": {
+    "word": "FOOTNOTE",
+    "hint": "annals"
+  },
+  "2027-10-16": {
+    "word": "PEPPER",
+    "hint": "spray"
+  },
+  "2027-10-17": {
+    "word": "JOURNAL",
+    "hint": "abstracted"
+  },
+  "2027-10-18": {
+    "word": "WIDTH",
+    "hint": "pos"
+  },
+  "2027-10-19": {
+    "word": "GRASP",
+    "hint": "reflex"
+  },
+  "2027-10-20": {
+    "word": "SHIELD",
+    "hint": "volcanoes"
+  },
+  "2027-10-21": {
+    "word": "HANDBOOK",
+    "hint": "marvel"
+  },
+  "2027-10-22": {
+    "word": "JUNGLE",
+    "hint": "plump"
+  },
+  "2027-10-23": {
+    "word": "WHOLE",
+    "hint": "thing"
+  },
+  "2027-10-24": {
+    "word": "SMILE",
+    "hint": "frown"
+  },
+  "2027-10-25": {
+    "word": "CARDBOARD",
+    "hint": "sleeve"
+  },
+  "2027-10-26": {
+    "word": "STORY",
+    "hint": "arc"
+  },
+  "2027-10-27": {
+    "word": "MINOR",
+    "hint": "counties"
+  },
+  "2027-10-28": {
+    "word": "BLACKBERRY",
+    "hint": "app"
+  },
+  "2027-10-29": {
+    "word": "LIGHT",
+    "hint": "bulbs"
+  },
+  "2027-10-30": {
+    "word": "CABIN",
+    "hint": "log"
+  },
+  "2027-10-31": {
+    "word": "RAINBOW",
+    "hint": "trout"
+  },
+  "2027-11-01": {
+    "word": "KEYBOARD",
+    "hint": "sonata"
+  },
+  "2027-11-02": {
+    "word": "SWING",
+    "hint": "pendulum"
+  },
+  "2027-11-03": {
+    "word": "COMPASS",
+    "hint": "needle"
+  },
+  "2027-11-04": {
+    "word": "JUDGE",
+    "hint": "pleas"
+  },
+  "2027-11-05": {
+    "word": "HORSEBACK",
+    "hint": "riding"
+  },
+  "2027-11-06": {
+    "word": "SOLAR",
+    "hint": "eclipse"
+  },
+  "2027-11-07": {
+    "word": "CLOUD",
+    "hint": "computing"
+  },
+  "2027-11-08": {
+    "word": "TREASURE",
+    "hint": "hoard"
+  },
+  "2027-11-09": {
+    "word": "PRINT",
+    "hint": "spores"
+  },
+  "2027-11-10": {
+    "word": "LEADERSHIP",
+    "hint": "qualities"
+  },
+  "2027-11-11": {
+    "word": "WHEAT",
+    "hint": "barley"
+  },
+  "2027-11-12": {
+    "word": "TOWER",
+    "hint": "bells"
+  },
+  "2027-11-13": {
+    "word": "MONSTER",
+    "hint": "monstrous"
+  },
+  "2027-11-14": {
+    "word": "BLACKBIRD",
+    "hint": "mach"
+  },
+  "2027-11-15": {
+    "word": "PLANET",
+    "hint": "apes"
+  },
+  "2027-11-16": {
+    "word": "ZEBRA",
+    "hint": "antelope"
+  },
+  "2027-11-17": {
+    "word": "TOKEN",
+    "hint": "gratitude"
+  },
+  "2027-11-18": {
+    "word": "HAVEN",
+    "hint": "connecticut"
+  },
+  "2027-11-19": {
+    "word": "EARTHQUAKE",
+    "hint": "magnitude"
+  },
+  "2027-11-20": {
+    "word": "DATABASE",
+    "hint": "sql"
+  },
+  "2027-11-21": {
+    "word": "SKYSCRAPER",
+    "hint": "taller"
+  },
+  "2027-11-22": {
+    "word": "UPGRADE",
+    "hint": "kits"
+  },
+  "2027-11-23": {
+    "word": "MAGIC",
+    "hint": "wand"
+  },
+  "2027-11-24": {
+    "word": "FLASH",
+    "hint": "floods"
+  },
+  "2027-11-25": {
+    "word": "LIBERTY",
+    "hint": "conscience"
+  },
+  "2027-11-26": {
+    "word": "PIXEL",
+    "hint": "histogram"
+  },
+  "2027-11-27": {
+    "word": "BOOKWORM",
+    "hint": "bunch"
+  },
+  "2027-11-28": {
+    "word": "STYLE",
+    "hint": "scope"
+  },
+  "2027-11-29": {
+    "word": "OTTER",
+    "hint": "tail"
+  },
+  "2027-11-30": {
+    "word": "FLOOD",
+    "hint": "floods"
+  },
+  "2027-12-01": {
+    "word": "FLOAT",
+    "hint": "floats"
+  },
+  "2027-12-02": {
+    "word": "WARRIOR",
+    "hint": "rude"
+  },
+  "2027-12-03": {
+    "word": "FANTASY",
+    "hint": "sorcery"
+  },
+  "2027-12-04": {
+    "word": "WATERFALL",
+    "hint": "gully"
+  },
+  "2027-12-05": {
+    "word": "COFFEE",
+    "hint": "roasting"
+  },
+  "2027-12-06": {
+    "word": "EXERCISE",
+    "hint": "discretion"
+  },
+  "2027-12-07": {
+    "word": "PLANE",
+    "hint": "projective"
+  },
+  "2027-12-08": {
+    "word": "BRONZE",
+    "hint": "medal"
+  },
+  "2027-12-09": {
+    "word": "POISON",
+    "hint": "ivy"
+  },
+  "2027-12-10": {
+    "word": "POWDER",
+    "hint": "puff"
+  },
+  "2027-12-11": {
+    "word": "ULTRA",
+    "hint": "magnus"
+  },
+  "2027-12-12": {
+    "word": "ECLIPSE",
+    "hint": "totality"
+  },
+  "2027-12-13": {
+    "word": "STAGE",
+    "hint": "stages"
+  },
+  "2027-12-14": {
+    "word": "LOGIC",
+    "hint": "propositional"
+  },
+  "2027-12-15": {
+    "word": "ROCKY",
+    "hint": "mountains"
+  },
+  "2027-12-16": {
+    "word": "TABLE",
+    "hint": "tennis"
+  },
+  "2027-12-17": {
+    "word": "FORTUNE",
+    "hint": "teller"
+  },
+  "2027-12-18": {
+    "word": "WHEEL",
+    "hint": "axle"
+  },
+  "2027-12-19": {
+    "word": "SHAPE",
+    "hint": "convex"
+  },
+  "2027-12-20": {
+    "word": "GOSSIP",
+    "hint": "columnist"
+  },
+  "2027-12-21": {
+    "word": "VELVET",
+    "hint": "revolver"
+  },
+  "2027-12-22": {
+    "word": "IMPACT",
+    "hint": "crater"
+  },
+  "2027-12-23": {
+    "word": "PUNCH",
+    "hint": "judy"
+  },
+  "2027-12-24": {
+    "word": "PALACE",
+    "hint": "versailles"
+  },
+  "2027-12-25": {
+    "word": "NERVE",
+    "hint": "innervation"
+  },
+  "2027-12-26": {
+    "word": "VOLLEYBALL",
+    "hint": "volley"
+  },
+  "2027-12-27": {
+    "word": "FLANNEL",
+    "hint": "woollen"
+  },
+  "2027-12-28": {
+    "word": "BLANKET",
+    "hint": "bog"
+  },
+  "2027-12-29": {
+    "word": "HOLLOW",
+    "hint": "sleepy"
+  },
+  "2027-12-30": {
+    "word": "TIMBER",
+    "hint": "corrugated"
+  },
+  "2027-12-31": {
+    "word": "BIRTHPLACE",
+    "hint": "rama"
+  },
+  "2028-01-01": {
+    "word": "VAPOR",
+    "hint": "deposition"
+  },
+  "2028-01-02": {
+    "word": "BREEZE",
+    "hint": "blowing"
+  },
+  "2028-01-03": {
+    "word": "VACATION",
+    "hint": "vacations"
+  },
+  "2028-01-04": {
+    "word": "PULSE",
+    "hint": "pulses"
+  },
+  "2028-01-05": {
+    "word": "SAILOR",
+    "hint": "beware"
+  },
+  "2028-01-06": {
+    "word": "EMBER",
+    "hint": "slag"
+  },
+  "2028-01-07": {
+    "word": "JOURNALISM",
+    "hint": "journalistic"
+  },
+  "2028-01-08": {
+    "word": "BUTTON",
+    "hint": "buttons"
+  },
+  "2028-01-09": {
+    "word": "GRIND",
+    "hint": "grinding"
+  },
+  "2028-01-10": {
+    "word": "FRUIT",
+    "hint": "ripening"
+  },
+  "2028-01-11": {
+    "word": "GOLDFISH",
+    "hint": "carp"
+  },
+  "2028-01-12": {
+    "word": "PRIDE",
+    "hint": "prejudice"
+  },
+  "2028-01-13": {
+    "word": "ABSOLUTE",
+    "hint": "magnitude"
+  },
+  "2028-01-14": {
+    "word": "RANGE",
+    "hint": "antarctica"
+  },
+  "2028-01-15": {
+    "word": "OBSTACLE",
+    "hint": "obstacles"
+  },
+  "2028-01-16": {
+    "word": "DIAMOND",
+    "hint": "jubilee"
+  },
+  "2028-01-17": {
+    "word": "BLUEPRINT",
+    "hint": "neuroscience"
+  },
+  "2028-01-18": {
+    "word": "BANANA",
+    "hint": "bananas"
+  },
+  "2028-01-19": {
+    "word": "QUARTZ",
+    "hint": "feldspar"
+  },
+  "2028-01-20": {
+    "word": "SCORE",
+    "hint": "verbal"
+  },
+  "2028-01-21": {
+    "word": "CHIEF",
+    "hint": "constable"
+  },
+  "2028-01-22": {
+    "word": "CRASH",
+    "hint": "wreckage"
+  },
+  "2028-01-23": {
+    "word": "YESTERDAY",
+    "hint": "tomorrow"
+  },
+  "2028-01-24": {
+    "word": "SOLVE",
+    "hint": "puzzle"
+  },
+  "2028-01-25": {
+    "word": "YIELD",
+    "hint": "hectare"
+  },
+  "2028-01-26": {
+    "word": "NATURAL",
+    "hint": "moist"
+  },
+  "2028-01-27": {
+    "word": "LUNAR",
+    "hint": "midpoint"
+  },
+  "2028-01-28": {
+    "word": "ROBOT",
+    "hint": "robotics"
+  },
+  "2028-01-29": {
+    "word": "NOTHING",
+    "hint": "else"
+  },
+  "2028-01-30": {
+    "word": "REVOLUTION",
+    "hint": "bolshevik"
+  },
+  "2028-01-31": {
+    "word": "SPOON",
+    "hint": "teaspoon"
+  },
+  "2028-02-01": {
+    "word": "MANSION",
+    "hint": "haunted"
+  },
+  "2028-02-02": {
+    "word": "JACKET",
+    "hint": "trousers"
+  },
+  "2028-02-03": {
+    "word": "LUNCH",
+    "hint": "seq"
+  },
+  "2028-02-04": {
+    "word": "TRAIL",
+    "hint": "hike"
+  },
+  "2028-02-05": {
+    "word": "KNOCKOUT",
+    "hint": "phenotypic"
+  },
+  "2028-02-06": {
+    "word": "CURTAIN",
+    "hint": "curtains"
+  },
+  "2028-02-07": {
+    "word": "TRAIN",
+    "hint": "hauled"
+  },
+  "2028-02-08": {
+    "word": "BEAUTIFUL",
+    "hint": "scenery"
+  },
+  "2028-02-09": {
+    "word": "HELICOPTER",
+    "hint": "rotor"
+  },
+  "2028-02-10": {
+    "word": "WORTH",
+    "hint": "noting"
+  },
+  "2028-02-11": {
+    "word": "CLIMATE",
+    "hint": "humid"
+  },
+  "2028-02-12": {
+    "word": "RIDGE",
+    "hint": "glacier"
+  },
+  "2028-02-13": {
+    "word": "STOMACH",
+    "hint": "duodenum"
+  },
+  "2028-02-14": {
+    "word": "COCONUT",
+    "hint": "grated"
+  },
+  "2028-02-15": {
+    "word": "LIGHTNING",
+    "hint": "bolt"
+  },
+  "2028-02-16": {
+    "word": "GUARD",
+    "hint": "tackle"
+  },
+  "2028-02-17": {
+    "word": "LANDSCAPE",
+    "hint": "gardener"
+  },
+  "2028-02-18": {
+    "word": "VOLCANO",
+    "hint": "eruption"
+  },
+  "2028-02-19": {
+    "word": "WONDER",
+    "hint": "woman"
+  },
+  "2028-02-20": {
+    "word": "PAINT",
+    "hint": "varnish"
+  },
+  "2028-02-21": {
+    "word": "SWEET",
+    "hint": "sour"
+  },
+  "2028-02-22": {
+    "word": "SNAKE",
+    "hint": "moan"
+  },
+  "2028-02-23": {
+    "word": "LEMON",
+    "hint": "zest"
+  },
+  "2028-02-24": {
+    "word": "SNOWBALL",
+    "hint": "sampling"
+  },
+  "2028-02-25": {
+    "word": "PRICE",
+    "hint": "fixing"
+  },
+  "2028-02-26": {
+    "word": "GRACE",
+    "hint": "dieu"
+  },
+  "2028-02-27": {
+    "word": "BLOSSOM",
+    "hint": "plum"
+  },
+  "2028-02-28": {
+    "word": "SHARP",
+    "hint": "claws"
+  },
+  "2028-02-29": {
+    "word": "MEDAL",
+    "hint": "clasp"
+  },
+  "2028-03-01": {
+    "word": "PHONE",
+    "hint": "caller"
+  },
+  "2028-03-02": {
+    "word": "MIDNIGHT",
+    "hint": "madness"
+  },
+  "2028-03-03": {
+    "word": "CRADLE",
+    "hint": "filth"
+  },
+  "2028-03-04": {
+    "word": "CHARM",
+    "hint": "quark"
+  },
+  "2028-03-05": {
+    "word": "IMAGINARY",
+    "hint": "quadratic"
+  },
+  "2028-03-06": {
+    "word": "PROUD",
+    "hint": "beg"
+  },
+  "2028-03-07": {
+    "word": "DOCUMENT",
+    "hint": "xml"
+  },
+  "2028-03-08": {
+    "word": "ROOSTER",
+    "hint": "teeth"
+  },
+  "2028-03-09": {
+    "word": "STONE",
+    "hint": "carving"
+  },
+  "2028-03-10": {
+    "word": "ORBIT",
+    "hint": "eccentricity"
+  },
+  "2028-03-11": {
+    "word": "WOMAN",
+    "hint": "suffrage"
+  },
+  "2028-03-12": {
+    "word": "FABLE",
+    "hint": "fables"
+  },
+  "2028-03-13": {
+    "word": "WRITE",
+    "hint": "syllable"
+  },
+  "2028-03-14": {
+    "word": "JOKER",
+    "hint": "ledger"
+  },
+  "2028-03-15": {
+    "word": "PANEL",
+    "hint": "judges"
+  },
+  "2028-03-16": {
+    "word": "FRESH",
+    "hint": "vegetables"
+  },
+  "2028-03-17": {
+    "word": "PARADISE",
+    "hint": "nevada"
+  },
+  "2028-03-18": {
+    "word": "PEARL",
+    "hint": "harbor"
+  },
+  "2028-03-19": {
+    "word": "EMPIRE",
+    "hint": "honours"
+  },
+  "2028-03-20": {
+    "word": "JELLYFISH",
+    "hint": "tentacles"
+  },
+  "2028-03-21": {
+    "word": "GOLDEN",
+    "hint": "globe"
+  },
+  "2028-03-22": {
+    "word": "SWIFT",
+    "hint": "fearless"
+  },
+  "2028-03-23": {
+    "word": "TULIP",
+    "hint": "snails"
+  },
+  "2028-03-24": {
+    "word": "SURPRISE",
+    "hint": "attack"
+  },
+  "2028-03-25": {
+    "word": "CABINET",
+    "hint": "shuffle"
+  },
+  "2028-03-26": {
+    "word": "GIANT",
+    "hint": "squid"
+  },
+  "2028-03-27": {
+    "word": "STATE",
+    "hint": "legislature"
+  },
+  "2028-03-28": {
+    "word": "CROSSBOW",
+    "hint": "bolts"
+  },
+  "2028-03-29": {
+    "word": "HORIZON",
+    "hint": "spill"
+  },
+  "2028-03-30": {
+    "word": "STEAM",
+    "hint": "locomotive"
+  },
+  "2028-03-31": {
+    "word": "THORN",
+    "hint": "prussia"
+  },
+  "2028-04-01": {
+    "word": "VAULT",
+    "hint": "uneven"
+  },
+  "2028-04-02": {
+    "word": "PIRATE",
+    "hint": "pirates"
+  },
+  "2028-04-03": {
+    "word": "SHIFT",
+    "hint": "knob"
+  },
+  "2028-04-04": {
+    "word": "GRATITUDE",
+    "hint": "kindness"
+  },
+  "2028-04-05": {
+    "word": "PLATFORM",
+    "hint": "platforms"
+  },
+  "2028-04-06": {
+    "word": "BEACH",
+    "hint": "surf"
+  },
+  "2028-04-07": {
+    "word": "PYRAMIDS",
+    "hint": "egypt"
+  },
+  "2028-04-08": {
+    "word": "DRIVE",
+    "hint": "floppy"
+  },
+  "2028-04-09": {
+    "word": "BUBBLE",
+    "hint": "bubbles"
+  },
+  "2028-04-10": {
+    "word": "PRESS",
+    "hint": "isbn"
+  },
+  "2028-04-11": {
+    "word": "SCALE",
+    "hint": "scales"
+  },
+  "2028-04-12": {
+    "word": "GHOST",
+    "hint": "haunt"
+  },
+  "2028-04-13": {
+    "word": "WINDOW",
+    "hint": "lancet"
+  },
+  "2028-04-14": {
+    "word": "DRAMA",
+    "hint": "desk"
+  },
+  "2028-04-15": {
+    "word": "COURAGE",
+    "hint": "tenacity"
+  },
+  "2028-04-16": {
+    "word": "HOMEWORK",
+    "hint": "tutoring"
+  },
+  "2028-04-17": {
+    "word": "SWEEP",
+    "hint": "oar"
+  },
+  "2028-04-18": {
+    "word": "STRAW",
+    "hint": "bales"
+  },
+  "2028-04-19": {
+    "word": "DESPERATE",
+    "hint": "straits"
+  },
+  "2028-04-20": {
+    "word": "SPACESHIP",
+    "hint": "aliens"
+  },
+  "2028-04-21": {
+    "word": "LEADER",
+    "hint": "opposition"
+  },
+  "2028-04-22": {
+    "word": "WHIRLPOOL",
+    "hint": "swirling"
+  },
+  "2028-04-23": {
+    "word": "WANDER",
+    "hint": "yonder"
+  },
+  "2028-04-24": {
+    "word": "ROBIN",
+    "hint": "hood"
+  },
+  "2028-04-25": {
+    "word": "CANDY",
+    "hint": "peanut"
+  },
+  "2028-04-26": {
+    "word": "TREAT",
+    "hint": "acne"
+  },
+  "2028-04-27": {
+    "word": "CHANCELLOR",
+    "hint": "exchequer"
+  },
+  "2028-04-28": {
+    "word": "VOCAL",
+    "hint": "cords"
+  },
+  "2028-04-29": {
+    "word": "FLOWER",
+    "hint": "petals"
+  },
+  "2028-04-30": {
+    "word": "PROOF",
+    "hint": "proofs"
+  }
 }
